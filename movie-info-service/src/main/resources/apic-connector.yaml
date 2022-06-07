@@ -1,0 +1,10 @@
+oauth-token:
+  request-config:
+    client_id: b584c92ef2af981c8a0ac710b294e1eb
+    client_secret: 1a968976d84b95e0728a09f02ef02b36
+    username: ${OAUTH_USERNAME}
+    password: ${OAUTH_TOKEN_PASSWORD}
+
+service-mesh:
+  oauth-service:
+    base-uri: 
